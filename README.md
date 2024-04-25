@@ -22,4 +22,4 @@ Security Researcher and Penetration Tester.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Cache-Cow)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cache-Cow)](https://github.com/anuraghazra/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cache-Cow)](https://github.com/anuraghazra/github-readme-stats)
