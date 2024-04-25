@@ -4,8 +4,7 @@
 
 ### 👨‍💻: About Me :
 
-Security Researcher and Bug Bounty. I enjoy developing tools for ethical hacking.
-
+Security Researcher and Penetration Tester.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
